@@ -1,0 +1,74 @@
+/* Total body font style */
+body{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Header styles */
+
+.background-color{
+    background-color: rgba(229, 84, 115, 0.10);
+    width: 1306px;
+    height: 680px;
+    flex-shrink: 0;
+    position: relative;
+    bottom: 3rem;
+}
+
+.background-img{
+    margin-left: 600px;
+    width: 600px;
+    height: 600px;
+    flex-shrink: 0;
+    padding: 80px;
+}
+
+.total-header-paragraph{
+    position: relative;
+    bottom: 30rem;
+}
+
+.header-paragraph-intro{
+    width: 708px;
+    flex-direction: column;
+    flex-shrink: 0;
+    color: #272727;
+    font-family: Lato;
+    font-size: 70px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    position: relative;
+    bottom: 10.5rem;
+    margin: 80px;
+}
+
+.header-paragraph-details{
+    position: relative;
+    bottom: 12.5rem;
+    margin: 80px;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.header-shop-now-btn{
+    position: relative;
+    bottom: 21rem;
+    margin: 80px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    color: white;
+    font-size: 18px;
+}
+
+.shop-now-btn-style{
+    text-decoration: none;
+    color: white;
+}
+
